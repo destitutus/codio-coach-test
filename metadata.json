@@ -1,0 +1,9 @@
+
+{
+  "name": "Coach Test Extension",
+  "type": "helper",
+  "properties": {
+    "user_type": "all",
+    "component": "all"
+  }
+}
